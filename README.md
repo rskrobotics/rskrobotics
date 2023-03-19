@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rskrobotics
 - 👀 I’m interested in anything tech, industrial robotics, robotics and automation of processes.
-- 🌱 I’m currently learning django, soon moving on to some frontend frameworks.
-- 💞️ I’m looking to collaborate on anything django related.
+- 🌱 Fascinated by OpenCv and anything image processing related. So much useful info!
+
 - 📫 How to reach me - rskrobotics.gmail.com
 
 <!---

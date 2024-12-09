@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rskrobotics
-- 👀 I’m interested in anything tech, industrial robotics, robotics and automation of processes.
-- 🌱 Fascinated by OpenCv and anything image processing related. So much useful info!
+If it can be automated, it will be automated. Doesn't matter if it should.
 
-- 📫 How to reach me - rskrobotics.gmail.com
+LinkedIn: https://www.linkedin.com/in/krzysztof-kasprzyk-a4180b187/
 
 <!---
 rskrobotics/rskrobotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
